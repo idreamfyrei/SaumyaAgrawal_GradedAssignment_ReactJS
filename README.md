@@ -9,7 +9,7 @@ Movies on the Tip is an online movie manager whose responsibility is to take car
 User Stories
 
 1. As a user I should be able to search the movies type:-
-coming soon
+  -coming soon
   -Movies in theaters
   -top rated Indian
   -top rated movies
@@ -23,6 +23,7 @@ coming soon
 **Imporatant Notes**
 
 -node_modules files are not uploaded
+
 -Only required compopnents from src/ and public/ , along with package.json, package-lock.json and tsconfig.json are uploaded
 img/ is not uploaded. (while executing application paste img/ in public folder)
 
