@@ -1,0 +1,14 @@
+.navbar {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.navbar-light .navbar-nav .nav-link.active {
+  color: rgb(45, 140, 255);
+  border-bottom: 1px solid rgb(45, 140, 255);
+}
+
+.d-flex-custom {
+  flex-direction: column;
+  text-align: center;
+}
